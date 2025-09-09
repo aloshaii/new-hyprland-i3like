@@ -4,3 +4,5 @@ i3 theme with hyprland
 
 
 ~ sudo pacman -S greetd tuigree for waybar
+![p](my-hyprland-config/myw.png)
+
